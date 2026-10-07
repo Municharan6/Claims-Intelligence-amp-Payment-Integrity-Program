@@ -1,4 +1,4 @@
-# Final_Project_Municharan
+# Claims Intelligence &amp; Payment Integrity Program
 # Meridian_claims_analytics
 
 Data Analytics project to analyze claims 
